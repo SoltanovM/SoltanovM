@@ -19,7 +19,7 @@ I’m a Data & AI Engineer with 3+ years of experience designing and building **
 - 🤖 Specialized in **LLMs, OCR systems, and embeddings**
 - ⚡ Focused on **performance, scalability, and real-world impact**
 
-> I care about building systems that actually work in production — not just prototypes.
+> I care about building systems that actually work in production
 
 ---
 
@@ -45,7 +45,7 @@ I’m a Data & AI Engineer with 3+ years of experience designing and building **
 
 **Laguz Opportunities**
 
-- Developed large-scale **web scraping + OCR pipelines**  
+- Developed large-scale **web scraping**  
 - Processed complex PDFs using Tesseract, Textract, Camelot  
 
 ---
