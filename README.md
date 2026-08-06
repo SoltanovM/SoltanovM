@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-I’m a Data & AI Engineer with 3+ years of experience designing and building **scalable data pipelines and AI-powered systems in production**.
+I’m a Data & AI Engineer with 4+ years of experience designing and building **scalable data pipelines and AI-powered systems in production**.
 
 - 🧮 Strong foundation in **Applied Mathematics (USP)**
 - 🏗️ Experience with **large-scale data architectures**
@@ -21,7 +21,13 @@ I’m a Data & AI Engineer with 3+ years of experience designing and building **
 
 ## 💼 Professional Experience
 
-### 🏦 Data Engineer @ Domus Capital
+### 🏢 Data Engineering, Management & Governance Analyst @ Accenture
+
+- Data engineering, management and governance for **enterprise-scale data platforms**
+
+---
+
+### 🏦 Data & AI Engineer @ Domus Capital
 
 - Built **scalable data pipelines and APIs** using FastAPI, Docker, and AWS  
 - Developed an **OCR + LLM system** using GPU-based inference (vLLM)  
@@ -133,11 +139,11 @@ Even outside of production systems, I focus on:
 ## 🌐 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SoltanovM)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merdan-soltanov/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:math.soltanov@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merdansoltanov/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@soltanov.io)
 
 ---
 
-### ⭐ Thanks for visiting!
+### ⭐ Thanks for visiting
 
 `Building scalable systems, one pipeline at a time.` 🚀
